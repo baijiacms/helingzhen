@@ -1,2 +1,0 @@
-<?php
-pdo_query("");
